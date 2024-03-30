@@ -1,3 +1,5 @@
+[Thunderstore page](https://thunderstore.io/c/risk-of-rain-returns/p/Klehrik/Sniper_Autofire/)
+
 Auto-fires Sniper's default primary when the button is held.  
 Will always perfect reload when doing so.
 
