@@ -1,8 +1,8 @@
 ﻿{
-	"name": "Item_Toggle",
-	"version_number": "1.0.5",
-	"website_url": "https://github.com/Klehrik/RoRR-ItemToggle",
-	"description": "Allows for selecting which items should appear in a run.",
+	"name": "Sniper_Autofire",
+	"version_number": "1.0.1",
+	"website_url": "https://github.com/Klehrik/RoRR-SniperAutofire",
+	"description": "Auto-fires Sniper's default primary when the button is held.",
 	"dependencies": [
 		"ReturnOfModding-ReturnOfModding-1.0.20",
 		"Klehrik-HelperFunctions-1.0.1"
